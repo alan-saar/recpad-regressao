@@ -1,0 +1,11 @@
+ucimlrepo
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+xgboost
+pytest
+ipykernel
